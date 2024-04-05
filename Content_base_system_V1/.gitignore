@@ -1,0 +1,17 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore Python virtual environments
+venv/
+*.venv/
+pyvenv.cfg
+
+# Ignore Python libraries installed in the project
+Lib/site-packages/
+
+# Ignore other unrelated files and directories
+*.lnk
+Scripts/
+share/
+man/
